@@ -1,0 +1,16 @@
+# Core ML libraries
+torch>=2.0.0
+transformers>=4.36.0
+datasets>=2.16.0
+accelerate>=0.25.0
+
+# Training utilities
+trl>=0.7.0
+peft>=0.7.0
+bitsandbytes>=0.41.0
+
+# Data processing
+jsonlines>=3.1.0
+
+# Optional: monitoring
+# wandb>=0.16.0

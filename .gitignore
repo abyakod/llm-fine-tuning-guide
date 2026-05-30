@@ -1,0 +1,23 @@
+# Model checkpoints
+medical-ai-checkpoints/
+medical-ai-final/
+stage1-cpt-model/
+stage1-cpt-checkpoints/
+stage2-sft-checkpoints/
+stage2-final-medical-ai/
+
+# Training data (generated)
+*.jsonl
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
