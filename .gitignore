@@ -1,10 +1,20 @@
-# Model checkpoints
+# Model checkpoints (Part 2)
 medical-ai-checkpoints/
 medical-ai-final/
 stage1-cpt-model/
 stage1-cpt-checkpoints/
 stage2-sft-checkpoints/
 stage2-final-medical-ai/
+
+# Model checkpoints (Part 3)
+lora-checkpoints/
+lora-adapter-only/
+lora-merged-model/
+qlora-checkpoints/
+qlora-adapter/
+adapter-checkpoints/
+adapters/
+distilled-student/
 
 # Training data (generated)
 *.jsonl

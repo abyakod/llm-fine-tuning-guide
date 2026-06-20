@@ -12,5 +12,8 @@ bitsandbytes>=0.41.0
 # Data processing
 jsonlines>=3.1.0
 
+# Synthetic data generation (optional, for self-instruct)
+openai>=1.0.0
+
 # Optional: monitoring
 # wandb>=0.16.0
